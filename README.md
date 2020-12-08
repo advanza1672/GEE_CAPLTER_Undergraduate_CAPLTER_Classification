@@ -32,3 +32,45 @@ In addressing these questions, CAP LTER researchers focus on a broad geographic 
 2. Next, select "Layers" and make sure only "random points" is selected. 
 
 3. Then, change the view from "Map" to "Satellite". The screen should then look like the image below. Using this satellite imagery makes it easier to identify land cover classes. 
+
+4. Hover over "Geometry Imports" and make sure all of the boxes are checked. This allows you to see which points have already been classified. You can also uncheck the box to hide the classified points when needed (ex. If a classification marker blocks an unclassified point).
+
+5. Find an unclassified point (a black dot on the map) and zoom in as much as possible. Determine the land cover class this point belongs to (class guide is attached at the end of this document). If you are unsure, please skip the point and move on to the next. 
+
+6. Go back to "Geometry Imports" and select the correct class. 
+
+7. Then click "Add a Marker" and place a marker in the center of the point.
+
+8. When done, click "Exit" on the "Point Drawing" toolbar. (Note: you can change land cover classes without having to exit after each marker is placed. Simply repeat steps 5 and 7.) 
+
+9. Repeat this process for the rest of the points and SAVE OFTEN.
+
+10. If you need to delete a point, repeat step 8, click on the point you wish to delete and click "Delete" on the toolbar that pops up. 
+
+## Land cover Class Descriptions
+Water: This class includes lakes, canal and other small water bodies.
+
+Asphalt/Road (AsphaltAndRoad): This class mainly identifies transportation lines and other paved surface covered by asphalt, such as parking lots and commercial centers. This class doesn't include most of the road segments within a residential block.
+
+Concrete/Buildings (ConcreteAndBuildings): This class mainly identifies commercial and industrial buildings. It also includes concrete covered areas.
+
+Urban Mixture (UrbanMixture): This class identifies mixture of constructed materials, fragmented vegetation and paved surface.
+
+Residential: This class includes various dwellings such as neighborhoods, apartments, and rural lots.
+
+Residential, white rooftops (ResidentialWhiteRooftops): This class identifies cluster of residential buildings that have bright (usually white) rooftops, such as aluminum roofed house trailers and foam-based flat roofing.
+
+Active crop (ActiveCrop): This class identifies croplands that covered by green vegetation.
+
+Inactive crop (InactiveCrop): This class identifies croplands that don't have green vegetation.
+
+Cultivated vegetation (CultivatedVegetation): This class includes urban green space such as golf courses and parks.
+
+Natural vegetation (NaturalVegetation): This class includes vegetation grown in desert or riparian area, such as shrubs.
+
+Soil/Desert (SoilAndDesert): This class includes bare soil, desert, and any undeveloped or open land.
+
+Note: Due to naming requirements in GEE, non-numerical/alphabetical characters could not be used. Classes containing multiple words have been joined together and appear in GEE as the names in parentheses beside their class name.
+
+## Conclusion
+If you run into any issues, please contact me. This is a fairly simple project, but anything involving technology can have its quirks. 
