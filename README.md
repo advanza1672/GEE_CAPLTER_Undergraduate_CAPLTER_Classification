@@ -27,4 +27,8 @@ In addressing these questions, CAP LTER researchers focus on a broad geographic 
 <p> You should have received (or will soon be receiving) a link to the classification project in GEE by email. Simply, click on this link and you will be taken to the project. Once you have access, it is important that you DO NOT edit the code in any way. If you do accidentally edit the code and don't know how to fix it, take send me an email. I have backups just in case something happens! On this note, to avoid losing any progress due to a simple error, please save often and exit without saving if any mistakes are made. </p>
 
 ## Manual Classification
-When you first open GEE, it should look like the image below. If it does not, click "Run" and it should show up.  
+1. When you first open GEE, it should look like the image below. If it does not, click "Run" and it should show up.
+
+2. Next, select "Layers" and make sure only "random points" is selected. 
+
+3. Then, change the view from "Map" to "Satellite". The screen should then look like the image below. Using this satellite imagery makes it easier to identify land cover classes. 
