@@ -29,25 +29,53 @@ In addressing these questions, CAP LTER researchers focus on a broad geographic 
 ## Manual Classification
 1. When you first open GEE, it should look like the image below. If it does not, click "Run" and it should show up.
 
-![Opening Map](Images/OpenScreen.PNG)
+![Opening Map](OpenScreen.png)
 
 2. Next, select "Layers" and make sure only "random points" is selected. 
 
+![Layers](Layers.png)
+
+![Random Points](Check.png)
+
 3. Then, change the view from "Map" to "Satellite". The screen should then look like the image below. Using this satellite imagery makes it easier to identify land cover classes. 
+
+![Satellite](Satellite.png)
+
+![New View](NewView.png)
 
 4. Hover over "Geometry Imports" and make sure all of the boxes are checked. This allows you to see which points have already been classified. You can also uncheck the box to hide the classified points when needed (ex. If a classification marker blocks an unclassified point).
 
+![Geometry Imports](GeometryImports.png)
+
+![Check All](CheckAll.png)
+
 5. Find an unclassified point (a black dot on the map) and zoom in as much as possible. Determine the land cover class this point belongs to (class guide is attached at the end of this document). If you are unsure, please skip the point and move on to the next. 
+
+![Point](Point.png)
+
+![Zoom](Zoom.png)
 
 6. Go back to "Geometry Imports" and select the correct class. 
 
+![Class](Class.png)
+
 7. Then click "Add a Marker" and place a marker in the center of the point.
+
+![Add Marker](AddMarker.png)
+
+![Marker](Marker.png)
 
 8. When done, click "Exit" on the "Point Drawing" toolbar. (Note: you can change land cover classes without having to exit after each marker is placed. Simply repeat steps 5 and 7.) 
 
+![Exit](Exit.png)
+
 9. Repeat this process for the rest of the points and SAVE OFTEN.
 
+![Save](Save.png)
+
 10. If you need to delete a point, repeat step 8, click on the point you wish to delete and click "Delete" on the toolbar that pops up. 
+
+![Delete](Delete.png)
 
 ## Land cover Class Descriptions
 Water: This class includes lakes, canal and other small water bodies.
