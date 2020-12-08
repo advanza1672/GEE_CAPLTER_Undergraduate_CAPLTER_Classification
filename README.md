@@ -29,6 +29,8 @@ In addressing these questions, CAP LTER researchers focus on a broad geographic 
 ## Manual Classification
 1. When you first open GEE, it should look like the image below. If it does not, click "Run" and it should show up.
 
+![Opening Map](images/OpenScreen.PNG)
+
 2. Next, select "Layers" and make sure only "random points" is selected. 
 
 3. Then, change the view from "Map" to "Satellite". The screen should then look like the image below. Using this satellite imagery makes it easier to identify land cover classes. 
