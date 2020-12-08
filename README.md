@@ -1,1 +1,2 @@
-# GEE_CAPLTER_Undergraduate_CAPLTER_Classification
+# Undergraduate Manual Point Classification Guide 
+## (CAPLTER 2020, GEE)
