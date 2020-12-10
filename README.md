@@ -49,7 +49,7 @@ In addressing these questions, CAP LTER researchers focus on a broad geographic 
 
 ![Check All](CheckAll.png)
 
-5. Find an unclassified point (a black dot on the map) and zoom in as much as possible. Determine the land cover class this point belongs to (class guide is attached at the end of this document). If you are unsure, please skip the point and move on to the next. 
+5. Find an unclassified point (a black dot on the map) and zoom in as much as possible. Determine the land cover class this point belongs to by turning on "L8 Image" in layers and compare the L8 pixel the point appears in to the satellite image, deciding what landcover class makes up the majority of this pixel. There is a landcover class guide attached at the end of this document. If you are unsure, please skip the point and move on to the next. 
 
 ![Point](Point.png)
 
