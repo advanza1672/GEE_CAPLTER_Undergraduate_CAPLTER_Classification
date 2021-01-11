@@ -49,31 +49,33 @@ In addressing these questions, CAP LTER researchers focus on a broad geographic 
 
 ![Check All](CheckAll.png)
 
-5. Find an unclassified point (a black dot on the map) and zoom in as much as possible. Determine the land cover class this point belongs to by turning on "L8 Image" in layers and compare the L8 pixel the point appears in to the satellite image, deciding what landcover class makes up the majority of this pixel. There is a landcover class guide attached at the end of this document. If you are unsure, please skip the point and move on to the next. 
+5. Find an unclassified point (a black dot on the map) and zoom in as much as possible. 
+
+6. Determine the land cover class this point belongs to by turning  "L8 Image" in layers on and off as much as needed. Compare the L8 pixel to the area around the point in the satellite image, deciding what landcover class makes up the majority of this pixel. (There is a landcover class guide attached at the end of this document. If you are unsure, please skip the point and move on to the next.)
 
 ![Point](Point.png)
 
 ![Zoom](Zoom.png)
 
-6. Go back to "Geometry Imports" and select the correct class. 
+7. Go back to "Geometry Imports" and select the correct class. 
 
 ![Class](Class.png)
 
-7. Then click "Add a Marker" and place a marker in the center of the point.
+8. Then click "Add a Marker" and place a marker in the center of the point.
 
 ![Add Marker](AddMarker.png)
 
 ![Marker](Marker.png)
 
-8. When done, click "Exit" on the "Point Drawing" toolbar. (Note: you can change land cover classes without having to exit after each marker is placed. Simply repeat steps 5 and 7.) 
+9. When done, click "Exit" on the "Point Drawing" toolbar. (Note: you can change land cover classes without having to exit after each marker is placed. Simply repeat steps 5 and 7.) 
 
 ![Exit](Exit.png)
 
-9. Repeat this process for the rest of the points and SAVE OFTEN.
+10. Repeat this process for the rest of the points and SAVE OFTEN.
 
 ![Save](Save.png)
 
-10. If you need to delete a point, repeat step 8, click on the point you wish to delete and click "Delete" on the toolbar that pops up. 
+11. If you need to delete a point, repeat step 8, click on the point you wish to delete and click "Delete" on the toolbar that pops up. 
 
 ![Delete](Delete.png)
 
